@@ -14,7 +14,6 @@ The project includes:
 
 All results are contained in the Jupyter notebook analysis.ipynb.
 
-⸻
 
 Project Structure :
 
